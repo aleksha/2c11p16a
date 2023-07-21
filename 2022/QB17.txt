@@ -1,0 +1,78 @@
+1.	Mahomes, Patrick KCC QB	524.42	32.776	50.40 	21.30 	18.58 	28.36 	38.98 	25.62 	35.92 	B 	45.64 	43.14 	38.96 	24.90 	22.32 	24.78 	43.24 	28.26 	34.02 	DET	PGs	8
+2.	Hurts, Jalen PHI QB	498.58	35.613	32.72 	44.52 	39.10 	13.96 	36.66 	22.40 	B 	36.40 	25.52 	25.80 	35.20 	53.82 	46.90 	42.38 	43.20 	  	  	@NEP	GOD	7
+3.	Allen, Josh BUF QB	497.76	33.184	40.48 	43.18 	38.20 	31.02 	47.16 	39.36 	B 	19.12 	29.30 	29.60 	15.08 	39.42 	21.42 	24.08 	55.36 	24.98 	  	@NYJ	PGs	7
+4.	Burrow, Joe CIN QB	417.60	27.840	18.72 	19.06 	29.50 	24.08 	18.28 	44.50 	51.24 	15.98 	22.64 	B 	35.70 	21.00 	36.04 	20.06 	31.30 	29.50 	  	@CLE	NDAK	10
+5.	Fields, Justin CHI QB	408.48	27.232	17.14 	7.80 	1.94 	17.16 	20.52 	25.40 	31.86 	37.54 	69.72 	52.38 	31.12 	  	21.26 	B 	35.08 	11.86 	27.70 	GBP	FC	14
+6.	Jones, Daniel NYG QB	382.50	23.906	19.02 	17.14 	20.24 	29.14 	13.88 	18.02 	44.28 	9.04 	B 	23.28 	35.14 	16.52 	27.10 	22.86 	10.90 	26.76 	49.18 	DAL	Snusmumrik's Minions	9
+7.	Lawrence, Trevor JAC QB	360.44	22.527	13.40 	22.50 	31.68 	8.16 	7.34 	29.40 	24.70 	5.32 	24.70 	25.46 	B 	35.94 	19.36 	44.92 	38.32 	26.26 	2.98 	@IND	NDAK	11
+8.	Smith, Geno SEA QB	359.26	22.454	21.70 	4.08 	26.40 	42.70 	30.52 	13.18 	15.60 	23.58 	22.30 	23.20 	B 	27.82 	31.98 	23.06 	17.82 	13.20 	22.12 	LAR	Lesorub Magadan	11
+9.	Goff, Jared DET QB	341.86	21.366	16.00 	34.04 	13.88 	42.22 	3.86 	B 	-2.48 	25.14 	13.38 	17.34 	7.00 	21.60 	30.60 	37.10 	16.08 	37.20 	28.90 	@KCC	ansuperman	6
+10.	Jackson, Lamar BAL QB	334.08	27.840	25.22 	65.12 	58.42 	18.06 	21.76 	23.10 	18.20 	26.82 	28.02 	B 	15.46 	32.56 	1.34 	  	  	  	  	HOU	FC	10
+11.	Cousins, Kirk MIN QB	323.08	20.192	23.08 	5.34 	22.30 	12.92 	23.24 	20.50 	B 	28.48 	18.90 	18.98 	2.20 	25.86 	14.32 	34.00 	39.40 	30.66 	2.90 	TBB	БЕСЫ	7
+12.	Brady, Tom TBB QB	321.80	20.112	10.38 	11.40 	16.74 	36.40 	26.74 	15.72 	11.70 	24.10 	17.20 	18.02 	B 	22.54 	19.14 	8.12 	23.58 	9.84 	50.18 	@MIN	FA	11
+13.	Herbert, Justin LAC QB	318.94	19.934	29.26 	30.96 	13.08 	30.10 	16.92 	6.42 	20.12 	B 	12.10 	13.04 	22.70 	36.26 	25.60 	26.98 	10.22 	4.00 	21.18 	MIA	Oparysh	8
+14.	Tagovailoa, Tua MIA QB	286.92	22.071	16.80 	52.36 	13.44 	0.40 	  	  	17.94 	40.68 	35.08 	29.40 	B 	17.96 	13.80 	15.60 	22.06 	11.40 	  	@LAC	ansuperman	11
+15.	Rodgers, Aaron GBP QB	258.00	16.125	1.70 	20.86 	18.10 	16.14 	20.88 	13.84 	19.76 	17.72 	10.64 	25.86 	23.08 	9.50 	15.68 	B 	10.86 	14.32 	19.06 	BUF	Lesorub Magadan (Q)	14
+16.	Murray, Kyler ARI QB	254.02	23.093	25.12 	27.88 	18.36 	24.38 	17.20 	24.88 	20.66 	31.64 	29.00 	  	  	34.24 	B 	0.66 	  	  	  	@WAS	Gonsales Monsters (Q)	13
+17.	Carr, Derek LVR QB	250.08	16.672	11.80 	22.98 	27.82 	14.02 	21.94 	B 	15.54 	-0.06 	22.36 	21.92 	29.28 	23.30 	16.00 	-0.92 	21.24 	2.86 	  	TEN	MH	6
+18.	Mariota, Marcus ATL QB	238.56	18.351	26.30 	13.94 	16.06 	2.36 	26.98 	35.16 	15.06 	25.42 	9.06 	20.74 	21.24 	15.36 	10.88 	B 	  	  	  	@NEP	БЕСЫ	14
+19.	Wilson, Russell DEN QB	225.64	16.117	24.80 	11.06 	9.56 	31.98 	5.66 	16.32 	  	15.28 	B 	15.24 	10.68 	10.48 	10.16 	34.08 	  	5.26 	25.08 	LVR	MH	9
+20.	Prescott, Dak DAL QB	215.38	19.580	2.96 	  	  	  	  	  	14.28 	28.40 	B 	23.20 	25.14 	14.84 	20.80 	12.66 	21.74 	36.48 	14.88 	@NYG	БЕСЫ	9
+21.	Brissett, Jacoby CLE QB	199.62	13.308	13.38 	16.96 	23.40 	14.96 	15.40 	6.64 	11.12 	24.32 	B 	20.48 	37.36 	14.10 	0.00 	0.00 	0.80 	  	0.70 	ARI	GOD	9
+22.	Garoppolo, Jimmy SFO QB	199.28	18.116	  	19.66 	8.44 	16.36 	22.02 	17.94 	23.82 	22.20 	B 	16.90 	33.92 	15.78 	2.24 	  	  	  	  	@DEN	MH (Q)	9
+23.	Tannehill, Ryan TEN QB	184.24	15.353	23.84 	-4.62 	19.26 	18.88 	13.54 	B 	4.38 	  	  	23.90 	26.02 	13.04 	16.54 	20.26 	9.20 	  	  	@NOS	Gonsales Monsters	6
+24.	Dalton, Andy NOS QB	182.70	14.054	  	  	  	15.74 	10.38 	12.48 	30.54 	21.16 	11.40 	5.06 	28.20 	10.26 	15.26 	B 	18.64 	-0.42 	4.00 	@ATL	GKC	14
+25.	Jones, Mac NEP QB	175.36	13.489	8.52 	13.68 	15.94 	  	  	  	-0.58 	12.66 	11.68 	B 	10.64 	32.28 	15.00 	5.30 	7.98 	21.50 	20.76 	PHI	Gonsales Monsters	10
+26.	Ryan, Matt IND QB	174.78	14.565	21.28 	-4.20 	19.78 	24.84 	2.14 	38.16 	5.92 	  	  	25.68 	9.12 	11.16 	7.62 	B 	13.28 	  	  	BYE	FA	14
+27.	Mills, Davis HOU QB	171.00	12.214	19.50 	7.18 	7.80 	13.84 	5.80 	B 	23.08 	8.88 	12.46 	19.76 	5.26 	  	  	3.20 	23.44 	10.92 	9.88 	@BAL	NDAK	6
+28.	Pickett, Kenny PIT QB	151.46	12.622	  	  	  	8.30 	15.08 	10.28 	6.78 	7.34 	B 	26.06 	18.50 	13.16 	15.78 	2.10 	  	13.66 	14.42 	SFO	Snusmumrik's Minions	9
+29.	Wentz, Carson WAS QB	133.80	16.725	36.72 	37.78 	8.64 	5.30 	29.36 	4.16 	  	  	  	  	  	  	  	B 	  	10.92 	0.92 	BYE	Snusmumrik's Minions	14
+30.	Heinicke, Taylor WAS QB	128.96	14.329	  	  	  	  	  	  	14.44 	23.06 	15.66 	4.44 	7.84 	13.42 	21.60 	B 	16.26 	12.24 	  	CAR	KWar	14
+31.	Mayfield, Baker LAR QB	122.44	11.131	18.50 	16.30 	12.70 	3.88 	2.60 	  	  	  	18.20 	  	1.54 	  	B 	16.20 	6.54 	21.40 	4.58 	@MIN	Lesorub Magadan	7
+32.	Stafford, Matthew LAR QB	114.88	12.764	4.30 	20.88 	10.66 	2.76 	15.32 	9.82 	B 	19.88 	12.50 	  	18.76 	  	  	  	  	  	  	@SEA	KWar	7
+33.	Wilson, Zach NYJ QB	110.42	12.269	  	  	  	16.78 	15.10 	4.50 	7.74 	19.40 	14.06 	B 	6.18 	  	  	  	26.88 	-0.22 	  	BUF	KWar	10
+34.	Darnold, Sam CAR QB	105.40	21.080	  	  	  	  	  	  	  	  	  	  	  	19.36 	B 	14.30 	15.20 	25.40 	31.14 	@PIT	Snusmumrik's Minions	13
+35.	Purdy, Brock SFO QB	100.44	12.555	  	  	  	  	-0.10 	  	-1.26 	  	B 	  	0.30 	  	16.80 	26.70 	20.98 	17.96 	19.06 	@PIT	KWar (Q)	9
+36.	Watson, Deshaun CLE QB	76.48	15.296	  	  	  	  	  	  	  	  	B 	  	  	  	3.34 	18.34 	15.64 	10.30 	28.86 	CIN	Oparysh	9
+37.	Trubisky, Mitchell PIT QB	75.38	10.769	15.16 	11.42 	15.48 	-0.54 	  	12.76 	  	  	B 	  	  	  	  	5.04 	16.06 	  	  	SFO	Snusmumrik's Minions	9
+38.	White, Mike NYJ QB	66.08	16.520	  	  	  	  	  	  	  	  	  	B 	  	36.30 	19.46 	10.72 	  	  	-0.40 	@LAC	KWar	10
+39.	Rush, Cooper DAL QB	61.14	7.643	2.56 	15.60 	14.40 	22.12 	3.98 	1.24 	  	  	B 	  	1.24 	  	0.00 	  	  	  	  	@NYG	Oparysh	9
+40.	Flacco, Joe NYJ QB	57.18	14.295	19.36 	40.38 	-0.60 	  	  	  	  	  	  	B 	  	  	  	-1.96 	  	  	  	BYE	FA	10
+41.	Huntley, Tyler BAL QB	54.02	9.003	  	  	  	  	  	  	  	  	  	B 	  	0.00 	16.08 	7.12 	3.52 	16.70 	10.60 	HOU	PGs	10
+42.	Zappe, Bailey NEP QB	48.14	12.035	  	  	  	7.96 	10.02 	26.86 	3.30 	  	  	B 	  	  	  	  	  	  	  	PHI	FC	10
+43.	Winston, Jameis NOS QB	44.92	14.973	25.66 	1.64 	17.62 	  	  	  	  	  	  	  	  	  	  	B 	  	  	  	TEN	GOD	14
+44.	Walker, P.J. CAR QB	43.64	7.273	  	  	  	  	2.40 	2.30 	19.08 	20.18 	-7.04 	6.72 	  	  	B 	  	  	  	  	GBP	Snusmumrik's Minions	13
+45.	Bridgewater, Teddy MIA QB	42.02	8.404	  	  	0.00 	11.32 	0.00 	23.66 	  	  	  	  	B 	  	  	  	  	  	7.04 	BYE	FA	11
+46.	Minshew, Gardner PHI QB	40.32	8.064	  	  	  	  	  	  	B 	0.82 	  	  	  	  	0.44 	-0.10 	  	28.20 	10.96 	JAC	NDAK	7
+47.	Stidham, Jarrett LVR QB	37.38	9.345	  	  	  	  	  	B 	0.00 	2.88 	  	  	  	0.00 	  	  	  	  	34.50 	LVR	GOD	6
+48.	McCoy, Colt ARI QB	31.30	7.825	  	  	  	  	  	  	  	  	  	16.92 	5.82 	  	B 	8.74 	-0.18 	  	  	@WAS	Gonsales Monsters	13
+49.	Ridder, Desmond ATL QB	24.86	8.287	  	  	  	  	  	  	  	  	  	  	  	  	  	B 	9.18 	9.52 	6.16 	CAR	GKC	14
+50.	Ehlinger, Sam IND QB	21.16	7.053	  	  	  	  	  	  	  	8.04 	3.02 	  	  	  	  	B 	  	  	10.10 	JAC	ansuperman	14
+51.	Driskel, Jeff HOU QB	19.50	3.250	1.00 	1.50 	  	  	  	B 	  	  	  	  	  	  	  	12.12 	1.12 	2.70 	1.06 	@WAS	FA	6
+52.	Lance, Trey SFO QB	18.96	6.320	15.96 	3.00 	  	  	  	  	  	  	B 	0.00 	  	  	  	  	  	  	  	@PIT	ansuperman	9
+53.	Willis, Malik TEN QB	17.34	2.167	  	0.34 	  	  	  	B 	0.00 	-0.60 	7.70 	-2.40 	  	  	1.94 	  	2.10 	8.26 	  	@NOS	illmatic27	6
+54.	Perkins, Bryce LAR QB	16.44	3.288	  	  	  	  	  	  	B 	  	  	0.28 	7.46 	7.90 	1.00 	  	  	-0.20 	  	BYE	FA	7
+55.	Blough, David ARI QB	15.58	15.580	  	  	  	  	  	  	  	  	  	  	  	  	B 	  	  	  	15.58 	@WAS	FA	13
+56.	Streveler, Chris NYJ QB	14.50	7.250	  	  	  	  	  	  	  	  	  	B 	  	  	  	  	  	14.50 	0.00 	BUF	FA	10
+57.	Taylor, Tyrod NYG QB	13.82	4.607	  	  	  	0.94 	  	  	  	  	B 	  	  	  	  	12.88 	  	  	0.00 	DAL	Oparysh	9
+58.	Love, Jordan GBP QB	13.70	3.425	2.60 	  	  	  	  	0.32 	  	  	  	  	  	10.52 	  	B 	  	  	0.26 	@CHI	GKC	14
+59.	Rypien, Brett DEN QB	13.02	3.255	  	  	  	  	  	  	6.90 	  	B 	  	  	  	  	2.64 	7.68 	-4.20 	  	@SEA	FA	9
+60.	Wolford, John LAR QB	11.80	3.933	  	  	  	  	  	  	B 	  	  	9.28 	  	  	2.52 	0.00 	  	  	  	@MIN	FA	7
+61.	Dobbs, Joshua TEN QB	10.98	10.980	  	  	  	  	  	B 	  	  	  	  	  	  	  	  	  	  	10.98 	CIN	Oparysh	6
+62.	Allen, Kyle HOU QB	10.94	5.470	  	  	  	  	  	B 	  	  	  	  	  	8.80 	2.14 	  	  	  	  	@NYJ	FA	6
+63.	Siemian, Trevor CHI QB	10.66	5.330	  	  	  	  	  	  	  	0.20 	  	  	  	10.46 	  	B 	  	  	  	@CLE	GOD	14
+64.	Mullens, Nick MIN QB	10.32	3.440	  	  	  	  	  	  	B 	  	-0.12 	  	2.16 	  	  	  	  	  	8.28 	TBB	Snusmumrik's Minions	7
+65.	Thompson, Skylar MIA QB	7.58	1.263	  	  	  	  	0.64 	4.96 	  	  	  	0.68 	B 	-1.26 	-4.00 	  	  	  	6.56 	@LAC	illmatic27	11
+66.	Hoyer, Brian NEP QB	1.48	1.480	  	  	  	1.48 	  	  	  	  	  	B 	  	  	  	  	  	  	  	@DEN	MH	10
+67.	Allen, Brandon CIN QB	1.28	1.280	  	  	  	  	  	  	  	  	1.28 	B 	  	  	  	  	  	  	  	@PIT	FA	10
+68.	McSorley, Trace ARI QB	1.12	0.224	2.98 	  	  	  	  	  	  	  	  	0.00 	-1.04 	  	B 	  	-3.40 	2.58 	  	PHI	FA	13
+69.	Daniel, Chase LAC QB	1.08	0.360	  	0.00 	  	  	  	  	  	B 	  	0.00 	  	  	  	  	  	  	1.08 	BYE	FA	8
+70.	Johnson, Josh SFO QB	0.70	0.700	  	  	  	  	  	  	  	  	B 	  	  	  	  	0.70 	  	  	  	HOU	FA	9
+71.	Keenum, Case BUF QB	0.32	0.160	  	0.20 	  	  	0.12 	  	B 	  	  	  	  	  	  	  	  	  	  	@BAL	FA	7
+72.	Brown, Anthony BAL QB	0.14	0.140	  	  	  	  	  	  	  	  	  	B 	  	  	  	0.14 	  	  	  	HOU	FA	10
+73.	Henne, Chad KCC QB	-0.30	-0.150	0.00 	  	  	  	  	  	-0.30 	B 	  	  	  	  	  	  	  	  	  	BYE	FA	8
+74.	Sudfeld, Nate DET QB	-0.40	-0.200	  	  	  	  	  	B 	  	  	  	  	  	  	-0.10 	  	  	  	-0.30 	@KCC	FA	6
+75.	Eason, Jacob CAR QB	-1.64	-1.640	  	  	  	  	  	-1.64 	  	  	  	  	  	  	B 	  	  	  	  	BYE	FA	13
+76.	Beathard, C.J. JAC QB	-3.00	-0.750	  	  	-0.10 	  	  	  	  	  	  	  	B 	  	0.24 	  	  	-0.30 	-2.84 	@IND	FA	11
+77.	Peterman, Nathan CHI QB	-3.00	-1.500	  	  	  	  	  	  	  	  	  	  	  	  	  	B 	0.00 	-3.00 	  	GBP	FA	14
+78.	Foles, Nick IND QB	-8.24	-2.747	  	0.00 	  	  	  	  	  	  	  	  	  	  	  	B 	  	-6.28 	-1.96 	BYE	FA	14

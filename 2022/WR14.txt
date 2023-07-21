@@ -1,0 +1,243 @@
+1.	Jefferson, Justin MIN WR	389.26	29.943	53.40 	9.80 	2.90 	39.00 	43.82 	25.20 	B 	19.30 	34.50 	49.30 	5.80 	37.34 	17.10 	51.80 	TBB	Snusmumrik's Minions	7
+2.	Hill, Tyreek MIA WR	374.00	28.769	21.50 	54.50 	5.30 	38.90 	11.50 	43.20 	17.20 	44.50 	37.30 	14.90 	B 	19.00 	38.10 	28.10 	@LAC	FC (Q)	11
+3.	Adams, Davante LVR WR	354.60	27.277	39.10 	9.20 	12.70 	27.00 	37.40 	B 	21.00 	0.70 	44.60 	35.10 	42.60 	17.90 	52.70 	14.60 	@DEN	MH	6
+4.	Diggs, Stefon BUF WR	346.90	26.685	34.70 	51.80 	17.90 	14.70 	32.70 	39.80 	B 	31.30 	19.30 	31.80 	14.30 	25.70 	27.20 	5.70 	@NYJ	ansuperman	7
+5.	Brown, A.J. PHI WR	286.50	22.038	39.00 	15.40 	24.50 	19.00 	5.70 	21.70 	B 	53.60 	20.40 	1.70 	12.50 	12.10 	40.40 	20.50 	@NEP	GOD	7
+6.	St. Brown, Amon-Ra DET WR	277.20	23.100	22.90 	52.90 	17.30 	  	4.30 	B 	0.90 	17.40 	14.00 	31.10 	18.00 	37.40 	43.60 	17.40 	@KCC	Oparysh	6
+7.	Lamb, CeeDee DAL WR	265.20	20.400	4.90 	19.10 	26.70 	25.70 	13.80 	16.70 	15.60 	23.30 	B 	51.50 	8.00 	27.70 	25.90 	6.30 	@NYG	Gonsales Monsters (Q)	9
+8.	Waddle, Jaylen MIA WR	260.00	20.000	22.20 	54.10 	25.10 	5.90 	4.80 	25.40 	17.80 	40.10 	24.00 	15.60 	B 	18.00 	1.90 	5.10 	@LAC	GOD	11
+9.	Lockett, Tyler SEA WR	251.10	19.315	5.30 	28.20 	18.60 	16.60 	36.90 	3.20 	9.50 	19.80 	21.70 	13.20 	B 	20.30 	36.30 	21.50 	LAR	FC	11
+10.	Kupp, Cooper LAR WR	246.90	27.433	38.30 	40.30 	16.40 	33.70 	33.90 	21.70 	B 	27.40 	33.80 	1.40 	  	  	  	  	@SEA	Lesorub Magadan (Q)	7
+11.	Kirk, Christian JAC WR	238.10	18.315	26.20 	30.30 	23.20 	13.30 	1.60 	9.30 	21.10 	7.00 	25.10 	40.50 	B 	7.10 	25.90 	7.50 	@IND	Oparysh	11
+12.	McLaurin, Terry WAS WR	237.70	18.285	18.80 	17.20 	25.20 	3.00 	16.60 	8.20 	22.80 	25.10 	14.60 	29.30 	14.10 	9.30 	33.50 	B 	ARI	NDAK	14
+13.	Chase, Ja'Marr CIN WR	237.40	26.378	38.90 	15.80 	10.70 	16.60 	15.00 	41.20 	42.00 	  	  	B 	  	  	20.20 	37.00 	@CLE	MH	10
+14.	Cooper, Amari CLE WR	235.90	18.146	3.20 	34.60 	31.60 	1.90 	25.10 	13.90 	14.90 	30.10 	B 	6.20 	40.80 	19.90 	7.50 	6.20 	CIN	illmatic27	9
+15.	Metcalf, DK SEA WR	225.40	17.338	5.60 	6.50 	21.90 	30.90 	21.30 	5.40 	1.70 	22.00 	13.20 	17.60 	B 	21.50 	35.20 	22.60 	LAR	Gonsales Monsters	11
+16.	Wilson, Garrett NYJ WR	224.70	17.285	13.20 	39.00 	15.50 	5.60 	5.70 	1.30 	5.40 	27.00 	20.40 	B 	2.70 	31.40 	38.70 	18.80 	BUF	MH	10
+17.	Olave, Chris NOS WR	222.20	18.517	8.60 	14.00 	31.70 	21.70 	19.90 	  	26.10 	15.20 	17.10 	6.50 	30.70 	15.20 	15.50 	B 	TEN	Gonsales Monsters (Q)	14
+18.	Higgins, Tee CIN WR	216.10	16.623	4.70 	23.60 	18.80 	33.90 	0.00 	8.70 	19.30 	12.90 	15.50 	B 	33.30 	33.40 	12.00 	0.00 	@CLE	Oparysh	10
+19.	Smith, DeVonta PHI WR	207.00	15.923	0.00 	19.00 	45.40 	3.70 	21.20 	14.40 	B 	5.80 	3.70 	12.40 	16.80 	13.00 	30.20 	21.40 	@NEP	GOD	7
+20.	Aiyuk, Brandon SFO WR	201.70	15.515	6.20 	15.30 	12.90 	6.70 	13.30 	31.80 	18.70 	23.60 	B 	15.90 	16.00 	15.00 	7.60 	18.70 	@PIT	БЕСЫ	9
+21.	Evans, Mike TBB WR	198.50	16.542	23.10 	14.10 	  	39.30 	16.60 	7.20 	21.60 	27.30 	8.00 	14.40 	B 	4.60 	14.40 	7.90 	@MIN	Lesorub Magadan	11
+22.	Pittman, Michael IND WR	198.50	16.542	36.10 	  	18.20 	5.10 	15.40 	33.90 	12.80 	15.30 	3.70 	15.30 	17.00 	22.60 	3.10 	B 	JAC	ansuperman (Q)	14
+23.	Samuel, Deebo SFO WR	193.00	16.083	18.10 	18.70 	16.90 	32.20 	11.20 	19.00 	7.40 	  	B 	6.60 	25.90 	6.80 	16.30 	13.90 	@PIT	NDAK	9
+24.	Godwin, Chris TBB WR	182.70	16.609	5.50 	  	  	15.90 	16.30 	19.50 	9.00 	16.50 	8.20 	23.60 	B 	36.00 	17.80 	14.40 	@MIN	NDAK	11
+25.	Smith-Schuster, JuJu KCC WR	182.20	15.183	15.40 	2.50 	18.40 	8.60 	5.80 	31.80 	34.90 	B 	21.30 	5.30 	  	6.80 	6.50 	24.90 	PHI	Oparysh (Q)	8
+26.	Samuel, Curtis WAS WR	178.90	13.762	23.20 	26.40 	11.10 	7.30 	16.20 	1.60 	17.90 	16.40 	22.10 	6.50 	10.80 	1.30 	18.10 	B 	ARI	KWar	14
+27.	Palmer, Josh LAC WR	178.40	14.867	2.90 	12.50 	20.40 	3.50 	4.90 	16.20 	  	B 	27.10 	6.90 	39.10 	15.60 	16.00 	13.30 	MIA	NDAK	8
+28.	Thielen, Adam MIN WR	177.50	13.654	6.10 	13.70 	23.10 	18.70 	5.70 	15.10 	B 	16.70 	14.20 	8.40 	4.50 	24.10 	4.20 	23.00 	@ATL	Oparysh	7
+29.	Peoples-Jones, Donovan CLE WR	176.30	13.562	15.50 	0.00 	2.00 	15.60 	13.50 	16.10 	13.60 	16.60 	B 	19.40 	21.10 	3.10 	12.40 	27.40 	CIN	NDAK	9
+30.	Jeudy, Jerry DEN WR	174.80	15.891	29.70 	2.70 	3.20 	19.30 	13.30 	13.40 	20.10 	22.30 	B 	0.00 	  	  	14.50 	36.30 	LVR	Snusmumrik's Minions	9
+31.	Davis, Gabriel BUF WR	174.10	14.508	23.30 	  	6.20 	2.30 	47.10 	21.40 	B 	5.00 	4.80 	25.80 	15.80 	7.30 	9.50 	5.60 	@NYJ	Lesorub Magadan	7
+32.	Hopkins, DeAndre ARI WR	169.80	24.257	  	  	  	  	  	  	27.30 	47.40 	12.10 	21.80 	21.60 	23.20 	B 	16.40 	@NOS	PGs	13
+33.	Jones, Zay JAC WR	169.60	14.133	16.50 	4.30 	27.00 	  	3.20 	8.20 	16.30 	5.50 	7.50 	17.80 	B 	35.50 	2.60 	25.20 	@IND	Lesorub Magadan	11
+34.	Lazard, Allen GBP WR	167.50	15.227	  	9.30 	14.50 	27.10 	13.00 	22.10 	15.50 	  	23.70 	6.50 	14.70 	4.40 	16.70 	B 	BUF	KWar	14
+35.	Moore, D.J. CAR WR	167.50	12.885	7.50 	12.80 	2.00 	16.60 	15.20 	2.20 	23.10 	42.00 	4.40 	5.90 	4.40 	30.30 	B 	1.10 	GBP	БЕСЫ	13
+36.	Williams, Mike LAC WR	166.60	18.511	2.00 	33.30 	8.50 	28.00 	31.40 	2.70 	25.60 	B 	  	  	2.50 	  	  	32.60 	MIA	GKC	8
+37.	Boyd, Tyler CIN WR	165.92	12.763	12.80 	4.70 	30.50 	7.12 	5.70 	16.60 	43.50 	12.80 	7.90 	B 	6.20 	3.10 	15.00 	0.00 	@CLE	PGs	10
+38.	Sutton, Courtland DEN WR	162.30	13.525	15.70 	29.20 	21.20 	19.70 	15.90 	2.90 	4.30 	2.30 	B 	16.10 	17.50 	17.50 	0.00 	  	LVR	MH	9
+39.	Meyers, Jakobi NEP WR	156.20	15.620	14.70 	21.00 	  	  	33.60 	14.00 	11.40 	23.50 	6.40 	B 	13.70 	14.20 	3.70 	  	@DEN	GKC	10
+40.	Johnson, Diontae PIT WR	154.50	11.885	15.00 	18.20 	19.40 	3.70 	14.50 	7.10 	8.50 	6.50 	B 	14.30 	4.70 	8.90 	15.50 	18.20 	SFO	illmatic27	9
+41.	Hollins, Mack LVR WR	153.96	11.843	2.60 	15.60 	43.96 	5.80 	0.00 	B 	12.40 	16.90 	3.20 	3.30 	13.70 	20.30 	7.00 	9.20 	CAR	NDAK	6
+42.	Pickens, George PIT WR	151.40	11.646	0.80 	3.30 	5.90 	25.20 	19.30 	4.80 	22.10 	0.00 	B 	15.00 	22.80 	15.70 	0.70 	15.80 	SFO	KWar	9
+43.	Brown, Marquise ARI WR	145.00	18.125	13.30 	15.80 	34.50 	25.30 	25.30 	15.80 	  	  	  	  	  	8.60 	B 	6.40 	@WAS	GOD	13
+44.	Watson, Christian GBP WR	142.90	14.290	5.60 	2.40 	  	9.30 	0.30 	  	  	1.70 	4.40 	42.70 	20.60 	31.00 	24.90 	B 	@CHI	GKC	14
+45.	Slayton, Darius NYG WR	138.30	11.525	  	0.00 	0.00 	2.10 	18.40 	2.80 	19.80 	16.10 	B 	23.00 	18.10 	13.80 	18.50 	5.70 	DAL	Lesorub Magadan	9
+46.	London, Drake ATL WR	136.30	10.485	16.40 	28.10 	19.40 	3.20 	7.00 	6.50 	1.40 	6.60 	2.80 	13.30 	7.20 	4.40 	20.00 	B 	CAR	БЕСЫ	14
+47.	Valdes-Scantling, Marquez KCC WR	131.80	10.138	7.60 	2.30 	8.30 	13.80 	19.50 	0.00 	24.10 	B 	2.20 	19.50 	2.80 	14.60 	14.10 	3.00 	DET	GKC	8
+48.	Campbell, Parris IND WR	129.30	9.946	6.70 	0.00 	2.00 	7.30 	4.20 	22.20 	25.50 	9.10 	3.10 	23.10 	15.70 	2.90 	7.50 	B 	DAL	Gonsales Monsters	14
+49.	Mooney, Darnell CHI WR	121.50	10.125	1.30 	0.10 	3.80 	17.90 	12.20 	16.80 	13.30 	15.50 	15.00 	14.20 	11.40 	0.00 	  	B 	GBP	FC (Q)	14
+50.	Cooks, Brandin HOU WR	121.20	12.120	18.70 	13.40 	3.70 	22.20 	4.00 	B 	7.60 	15.30 	  	6.70 	15.00 	14.60 	  	  	@NYG	NDAK	6
+51.	Duvernay, Devin BAL WR	121.20	9.323	25.40 	12.20 	10.30 	13.10 	17.30 	2.40 	6.20 	16.90 	1.00 	B 	1.70 	6.40 	8.30 	0.00 	HOU	Gonsales Monsters	10
+52.	Carter, DeAndre LAC WR	120.10	9.238	20.40 	13.50 	5.10 	1.10 	2.40 	3.70 	5.70 	B 	15.30 	20.90 	5.30 	23.80 	2.40 	0.50 	@DEN	FA	8
+53.	Pierce, Alec IND WR	115.50	9.625	0.00 	  	14.10 	16.50 	19.60 	13.40 	6.20 	14.00 	3.30 	0.00 	4.80 	0.00 	23.60 	B 	JAC	Oparysh	14
+54.	McKenzie, Isaiah BUF WR	115.40	9.617	9.90 	5.20 	25.20 	11.10 	  	1.90 	B 	8.50 	3.60 	9.50 	0.00 	26.30 	8.90 	5.30 	JAC	illmatic27	7
+55.	Brown, Noah DAL WR	109.40	9.117	16.30 	25.10 	14.40 	13.60 	1.00 	2.00 	11.00 	  	B 	0.80 	5.70 	0.00 	3.00 	16.50 	@BAL	БЕСЫ	9
+56.	Reynolds, Josh DET WR	109.20	10.920	3.80 	12.80 	19.60 	25.10 	18.70 	B 	1.30 	2.90 	  	  	  	0.00 	4.40 	20.60 	@KCC	FC	6
+57.	Davis, Corey NYJ WR	108.00	10.800	18.20 	21.30 	4.20 	23.40 	5.80 	12.20 	0.00 	  	  	B 	  	1.90 	18.50 	2.50 	BUF	GKC	10
+58.	Claypool, Chase CHI WR	107.64	8.280	8.90 	5.10 	7.60 	0.00 	14.00 	27.90 	7.60 	13.54 	3.20 	1.30 	2.60 	12.10 	3.80 	B 	GBP	GOD (Q)	14
+59.	Parker, DeVante NEP WR	104.50	8.708	1.90 	0.00 	35.60 	9.90 	0.00 	14.90 	14.80 	0.00 	  	B 	2.90 	17.00 	3.10 	4.40 	PHI	Lesorub Magadan	10
+60.	Collins, Nico HOU WR	104.10	10.410	4.10 	14.30 	6.10 	15.70 	15.00 	B 	5.30 	  	  	14.90 	7.80 	8.40 	12.50 	  	@BAL	FC	6
+61.	Moore, Chris HOU WR	103.30	8.608	5.60 	2.40 	13.30 	0.00 	  	B 	9.50 	0.00 	13.50 	15.00 	5.30 	1.70 	7.10 	29.90 	@NOS	FC	6
+62.	Zaccheaus, Olamide ATL WR	101.00	7.769	5.40 	10.10 	6.90 	12.50 	11.90 	14.30 	6.10 	1.40 	3.40 	5.40 	3.20 	17.60 	2.80 	B 	@NEP	NDAK	14
+63.	Hardman, Mecole KCC WR	99.80	12.475	10.10 	7.00 	0.70 	0.90 	16.50 	13.20 	28.00 	B 	23.40 	  	  	  	  	  	BUF	Lesorub Magadan (Q)	8
+64.	Allen, Keenan LAC WR	97.50	16.250	14.60 	  	  	  	  	  	2.60 	B 	  	  	16.40 	15.40 	25.30 	23.20 	MIA	PGs	8
+65.	Moore, Rondale ARI WR	95.90	11.988	  	  	  	2.20 	15.60 	8.90 	4.10 	26.90 	17.90 	20.90 	-0.60 	  	B 	  	@WAS	illmatic27	13
+66.	Jones, Marvin JAC WR	95.70	7.975	7.30 	5.80 	12.30 	0.00 	26.90 	  	13.70 	0.00 	8.80 	4.30 	B 	10.70 	2.70 	3.20 	@KCC	Lesorub Magadan	11
+67.	Robinson, Allen LAR WR	94.90	9.490	1.70 	20.30 	3.80 	1.70 	2.70 	22.30 	B 	14.40 	5.40 	7.90 	14.70 	  	  	  	SFO	Gonsales Monsters (Q)	7
+68.	Westbrook-Ikhine, Nick TEN WR	94.50	7.269	2.30 	1.80 	7.00 	0.00 	13.70 	B 	0.00 	0.00 	0.00 	38.90 	4.80 	13.80 	0.90 	11.30 	@NOS	GKC	6
+69.	Goodwin, Marquise SEA WR	93.20	8.473	3.70 	0.00 	4.60 	0.00 	  	4.60 	27.20 	5.80 	  	11.30 	B 	8.50 	2.70 	24.80 	CIN	FA	11
+70.	Robinson, Demarcus BAL WR	93.00	7.154	3.40 	8.20 	0.00 	2.00 	1.30 	4.70 	0.00 	16.40 	1.70 	B 	30.30 	2.70 	8.60 	13.70 	@SEA	FA	10
+71.	Dortch, Greg ARI WR	92.30	7.692	16.30 	20.00 	19.50 	1.60 	0.00 	0.00 	7.60 	0.20 	0.80 	0.00 	26.30 	  	B 	0.00 	@WAS	GKC	13
+72.	James, Richie NYG WR	91.70	7.054	15.10 	13.60 	7.00 	-0.10 	3.10 	2.80 	0.70 	-4.00 	B 	0.00 	13.80 	14.10 	4.00 	21.60 	DET	MH	9
+73.	Burks, Treylon TEN WR	89.10	11.137	13.00 	8.20 	3.10 	3.30 	  	B 	  	  	  	4.40 	26.10 	21.50 	9.50 	  	@NOS	Snusmumrik's Minions	6
+74.	Woods, Robert TEN WR	85.60	6.585	2.30 	6.90 	17.00 	13.00 	6.20 	B 	5.10 	2.60 	0.00 	3.00 	16.40 	3.60 	1.10 	8.40 	@BAL	Oparysh	6
+75.	Sherfield, Trent MIA WR	83.70	6.438	1.30 	2.40 	1.00 	14.00 	1.00 	1.10 	6.90 	4.50 	4.70 	20.80 	B 	5.30 	19.50 	1.20 	@NYJ	PGs	11
+76.	Skowronek, Ben LAR WR	82.50	6.346	5.50 	2.60 	14.60 	5.30 	7.60 	15.70 	B 	2.00 	0.00 	2.40 	0.90 	1.50 	4.50 	19.90 	@SEA	ansuperman (Q)	7
+77.	Chark, D.J. DET WR	81.60	11.657	19.70 	0.00 	7.60 	  	  	B 	  	  	  	  	0.00 	9.60 	18.80 	25.90 	@ATL	БЕСЫ	6
+78.	Gallup, Michael DAL WR	80.70	8.070	  	  	  	10.40 	7.40 	2.80 	0.00 	8.40 	B 	6.50 	6.10 	15.80 	17.30 	6.00 	@NYG	KWar	9
+79.	Doubs, Romeo GBP WR	80.50	8.944	7.80 	3.70 	23.80 	12.70 	4.90 	4.10 	0.00 	20.70 	2.80 	  	  	  	  	B 	@CHI	Lesorub Magadan	14
+80.	Dotson, Jahan WAS WR	80.10	10.012	17.50 	22.90 	2.00 	12.80 	  	  	  	  	  	2.40 	2.60 	0.00 	19.90 	B 	ARI	ansuperman	14
+81.	Agholor, Nelson NEP WR	79.90	6.658	2.80 	31.50 	3.60 	7.10 	0.00 	  	0.00 	0.70 	0.00 	B 	2.80 	21.50 	3.20 	6.70 	HOU	Oparysh	10
+82.	Osborn, K.J. MIN WR	79.60	6.123	2.90 	4.50 	22.30 	1.50 	7.10 	3.30 	B 	8.30 	0.00 	6.70 	3.70 	2.30 	3.70 	13.30 	TBB	ansuperman	7
+83.	Moore, Elijah NYJ WR	79.30	6.608	8.90 	6.00 	8.40 	13.00 	2.10 	0.00 	  	0.00 	0.00 	B 	3.20 	19.00 	3.20 	15.50 	CIN	KWar	10
+84.	Cobb, Randall GBP WR	76.90	8.544	3.40 	6.20 	12.70 	6.70 	20.40 	1.30 	  	  	  	  	16.80 	9.40 	0.00 	B 	BUF	ansuperman (Q)	14
+85.	Raymond, Kalif DET WR	76.50	5.885	0.00 	0.00 	0.90 	4.10 	8.50 	B 	19.00 	15.10 	3.70 	7.20 	7.00 	6.00 	1.60 	3.40 	@KCC	GKC	6
+86.	Watkins, Quez PHI WR	75.70	5.823	0.00 	19.40 	0.00 	0.00 	3.40 	0.20 	B 	0.00 	4.00 	14.00 	11.10 	11.50 	7.70 	4.40 	@NEP	NDAK	7
+87.	Marshall, Terrace CAR WR	73.60	7.360	  	0.00 	  	  	6.00 	0.00 	5.10 	17.70 	19.30 	5.30 	15.60 	1.80 	B 	2.80 	@ATL	NDAK	13
+88.	Jones, Julio TBB WR	72.60	9.075	17.10 	  	  	1.70 	  	  	  	9.60 	4.80 	19.30 	B 	8.00 	4.80 	7.30 	BYE	БЕСЫ	11
+89.	Bateman, Rashod BAL WR	69.50	11.583	18.40 	30.30 	10.40 	3.70 	  	  	6.70 	0.00 	  	B 	  	  	  	  	HOU	PGs (Q)	10
+90.	Shaheed, Rashid NOS WR	67.90	8.488	  	  	  	  	  	10.90 	17.30 	6.30 	0.00 	2.20 	1.30 	13.40 	16.50 	B 	TEN	Gonsales Monsters (Q)	14
+91.	Gage, Russell TBB WR	66.40	7.378	2.30 	5.80 	26.20 	3.90 	5.50 	3.50 	7.90 	  	  	  	B 	  	2.10 	9.20 	@MIN	БЕСЫ (Q)	11
+92.	Jennings, Jauan SFO WR	64.80	5.400	14.20 	0.90 	1.50 	4.20 	6.50 	2.80 	4.40 	  	B 	7.50 	0.00 	16.40 	5.40 	1.00 	@PIT	NDAK	9
+93.	Smith, Tre'Quan NOS WR	64.20	5.836	  	  	24.50 	2.80 	2.00 	13.30 	14.90 	0.00 	5.40 	0.00 	0.00 	1.30 	0.00 	B 	TEN	Lesorub Magadan	14
+94.	Landry, Jarvis NOS WR	63.70	7.963	26.90 	4.50 	3.70 	3.70 	  	  	  	  	  	6.20 	12.30 	3.50 	2.90 	B 	BYE	NDAK (Q)	14
+95.	Hinton, Kendall DEN WR	61.90	5.627	  	3.00 	3.70 	5.40 	  	1.30 	2.40 	0.00 	B 	14.20 	13.70 	8.30 	2.10 	7.80 	LVR	FA (Q)	9
+96.	Robinson, Wan'Dale NYG WR	61.60	10.267	1.50 	  	  	  	  	12.70 	14.00 	2.50 	B 	3.50 	27.40 	  	  	  	DAL	БЕСЫ (Q)	9
+97.	Byrd, Damiere ATL WR	60.10	6.010	  	  	  	0.00 	0.00 	0.00 	19.50 	20.20 	0.00 	13.80 	4.90 	0.00 	1.70 	B 	@ATL	FA	14
+98.	Anderson, Robbie ARI WR	59.90	4.608	29.20 	3.20 	2.40 	4.60 	4.20 	0.00 	0.00 	0.00 	0.10 	0.00 	0.00 	2.70 	B 	13.50 	@LAC	FA	13
+99.	St. Brown, Equanimeous CHI WR	59.90	4.608	8.80 	5.40 	7.80 	0.90 	3.90 	0.10 	8.80 	1.10 	0.00 	1.40 	4.40 	1.20 	16.10 	B 	GBP	Snusmumrik's Minions	14
+100.	Thomas, Michael NOS WR	59.60	19.867	27.20 	23.50 	8.90 	  	  	  	  	  	  	  	  	  	  	B 	TEN	illmatic27 (Q)	14
+101.	Agnew, Jamal JAC WR	59.00	5.364	1.70 	0.10 	2.70 	26.00 	0.30 	3.40 	  	  	0.00 	1.90 	B 	13.20 	2.80 	6.90 	@IND	KWar	11
+102.	Atwell, Tutu LAR WR	57.40	6.378	0.00 	0.00 	0.00 	  	11.40 	0.90 	B 	  	  	  	18.20 	4.30 	9.60 	13.00 	@SEA	БЕСЫ	7
+103.	Shenault, Laviska CAR WR	57.00	6.333	  	  	22.00 	0.00 	  	  	1.30 	5.60 	0.60 	13.90 	2.70 	4.10 	B 	6.80 	@ATL	illmatic27	13
+104.	Pettis, Dante CHI WR	56.90	4.377	17.10 	0.00 	0.00 	0.00 	0.00 	22.90 	4.10 	3.80 	2.20 	2.70 	0.00 	2.20 	1.90 	B 	GBP	FA	14
+105.	Watson, Justin KCC WR	55.60	4.277	0.00 	17.50 	0.00 	0.00 	2.00 	0.00 	7.40 	B 	5.20 	2.20 	14.20 	4.60 	2.50 	0.00 	DET	Gonsales Monsters	8
+106.	Bourne, Kendrick NEP WR	52.10	4.342	5.10 	3.60 	14.30 	6.30 	0.50 	2.70 	  	0.00 	2.70 	B 	1.30 	4.90 	2.50 	8.20 	PHI	Snusmumrik's Minions	10
+107.	Hodgins, Isaiah NYG WR	51.90	7.414	  	  	  	  	7.10 	0.00 	B 	  	  	6.10 	3.40 	5.10 	14.90 	15.30 	DAL	MH	9
+108.	Berrios, Braxton NYJ WR	51.38	3.952	7.20 	2.70 	-0.20 	7.18 	8.40 	9.60 	6.70 	0.00 	1.60 	B 	0.00 	2.30 	2.40 	3.50 	@LAC	KWar	10
+109.	Jefferson, Van LAR WR	48.00	6.857	  	  	  	  	  	  	B 	0.00 	0.00 	11.70 	6.60 	11.40 	5.90 	12.40 	@SEA	Snusmumrik's Minions	7
+110.	Irwin, Trenton CIN WR	44.00	7.333	  	  	  	  	  	  	  	4.20 	4.00 	B 	12.70 	2.60 	1.70 	18.80 	@CLE	Gonsales Monsters	10
+111.	Renfrow, Hunter LVR WR	42.70	7.117	4.60 	13.90 	  	  	5.00 	B 	13.50 	1.10 	4.60 	  	  	  	  	  	@DEN	Oparysh	6
+112.	Hodge, KhaDarel ATL WR	42.20	3.246	5.80 	12.70 	0.00 	0.00 	7.30 	0.00 	0.00 	0.00 	2.40 	11.70 	2.30 	0.00 	0.00 	B 	CAR	FA	14
+113.	Dorsett, Phillip HOU WR	41.80	3.483	0.00 	  	2.50 	0.00 	0.00 	B 	12.50 	1.10 	14.40 	3.70 	0.00 	1.00 	3.30 	3.30 	@DEN	FA	6
+114.	Brown, Dyami WAS WR	41.30	3.755	0.00 	0.00 	0.00 	1.60 	34.50 	0.00 	  	  	0.00 	2.50 	0.00 	2.70 	0.00 	B 	ARI	NDAK	14
+115.	Thornton, Tyquan NEP WR	41.10	4.567	  	  	  	  	1.70 	21.30 	2.90 	2.30 	1.00 	B 	1.00 	0.00 	5.10 	5.80 	PHI	PGs	10
+116.	Dulin, Ashton IND WR	41.00	4.556	7.10 	17.20 	1.70 	3.80 	2.80 	  	  	  	  	0.00 	0.00 	0.00 	8.40 	B 	JAC	ansuperman	14
+117.	McCloud, Ray-Ray SFO WR	40.70	3.131	3.00 	2.60 	2.10 	1.10 	0.00 	0.00 	21.50 	1.60 	B 	4.30 	0.00 	1.70 	0.00 	2.80 	@PIT	FA	9
+118.	Callaway, Marquez NOS WR	40.30	3.664	0.00 	0.00 	7.40 	13.30 	2.00 	6.60 	3.50 	2.00 	4.40 	  	1.10 	  	0.00 	B 	LVR	БЕСЫ	14
+119.	Smith, Shi CAR WR	40.00	3.077	2.20 	0.70 	3.70 	0.00 	14.90 	0.00 	0.00 	0.00 	3.00 	2.70 	3.60 	0.00 	B 	9.20 	@ATL	FA	13
+120.	Green, A.J. ARI WR	39.80	3.618	2.80 	5.60 	0.00 	  	4.50 	1.70 	  	0.00 	0.00 	9.00 	14.00 	1.00 	B 	1.20 	BYE	FA	13
+121.	Miller, Scott TBB WR	38.50	3.500	  	6.70 	0.90 	  	6.00 	0.00 	1.60 	2.30 	14.80 	4.50 	B 	0.00 	1.70 	0.00 	CAR	Lesorub Magadan	11
+122.	Pascal, Zach PHI WR	36.90	2.838	1.70 	2.90 	4.30 	0.00 	0.00 	0.00 	B 	18.70 	1.30 	2.00 	1.40 	0.00 	3.10 	1.50 	@WAS	FA	7
+123.	Watkins, Sammy BAL WR	36.60	4.067	4.30 	17.30 	  	  	  	  	5.10 	1.30 	1.40 	7.20 	0.00 	0.00 	0.00 	B 	BYE	FA	10
+124.	Moore, Skyy KCC WR	36.40	2.800	4.00 	0.00 	-2.00 	5.10 	2.50 	3.40 	-2.00 	B 	0.00 	1.10 	15.80 	5.60 	1.70 	1.20 	DET	illmatic27	8
+125.	Shepard, Sterling NYG WR	34.90	11.633	19.60 	6.90 	8.40 	  	  	  	  	  	B 	  	  	  	  	  	DAL	Oparysh (Q)	9
+126.	Cracraft, River MIA WR	34.70	3.856	0.00 	7.20 	8.10 	0.00 	0.00 	0.00 	0.00 	  	  	  	B 	14.50 	4.90 	  	@LAC	FA	11
+127.	Hamler, KJ DEN WR	34.30	4.900	0.00 	  	0.00 	11.50 	1.50 	5.90 	2.80 	12.60 	B 	  	  	  	  	  	LVR	KWar (Q)	9
+128.	Bell, David CLE WR	34.10	2.623	0.00 	1.10 	1.10 	5.00 	1.10 	1.80 	1.20 	4.70 	B 	4.40 	4.70 	4.30 	0.00 	4.70 	CIN	illmatic27	9
+129.	Powell, Brandon LAR WR	32.80	2.523	2.30 	-1.50 	4.70 	1.60 	0.10 	6.50 	B 	0.00 	0.90 	0.70 	2.50 	2.10 	12.90 	0.00 	TBB	FA	7
+130.	Shakir, Khalil BUF WR	30.80	2.800	  	0.00 	  	4.30 	21.50 	2.40 	B 	0.00 	0.00 	1.10 	0.00 	0.00 	1.50 	0.00 	@NYJ	ansuperman	7
+131.	Toney, Kadarius KCC WR	30.50	6.100	2.80 	1.00 	  	  	  	  	  	  	2.70 	24.00 	0.00 	  	  	  	DET	FC	8
+132.	Mims, Denzel NYJ WR	30.30	4.329	  	  	  	  	  	  	0.90 	14.60 	2.20 	B 	5.00 	1.60 	0.00 	6.00 	BUF	KWar	10
+133.	Kennedy, Tom DET WR	26.60	3.800	  	  	  	13.40 	0.00 	B 	2.90 	  	2.60 	5.40 	2.30 	0.00 	  	  	@KCC	FA	6
+134.	Rodgers, Amari HOU WR	25.50	2.125	0.00 	0.00 	0.00 	0.00 	0.00 	2.40 	0.90 	3.20 	0.00 	-2.00 	  	  	0.00 	21.00 	@BAL	GKC	6
+135.	Jackson, DeSean FA WR	23.90	5.975	  	  	  	  	  	  	  	  	2.60 	B 	  	14.40 	2.00 	4.90 	BYE	FA (Q)	-
+136.	Reagor, Jalen MIN WR	22.70	1.746	0.00 	3.40 	0.70 	0.00 	7.10 	0.00 	B 	0.00 	0.00 	0.00 	2.40 	3.50 	5.60 	0.00 	TBB	FA	7
+137.	Wilson, Cedrick MIA WR	21.30	1.775	3.80 	0.00 	0.00 	  	3.50 	0.00 	0.00 	0.00 	4.30 	1.20 	B 	4.60 	0.00 	3.90 	@LAC	ansuperman	11
+138.	Sills, David NYG WR	19.60	2.178	0.00 	6.20 	4.00 	1.00 	2.70 	1.80 	2.90 	1.00 	B 	  	  	  	0.00 	  	DAL	FA	9
+139.	Perriman, Breshad TBB WR	19.40	2.156	-0.70 	13.00 	4.40 	  	  	0.00 	0.00 	2.10 	0.60 	0.00 	B 	0.00 	  	  	JAC	FA	11
+140.	Harry, N'Keal CHI WR	19.30	4.825	  	  	  	  	  	  	2.40 	9.90 	1.10 	  	  	  	5.90 	B 	BYE	FA	14
+141.	Schwartz, Anthony CLE WR	18.80	1.709	5.40 	0.00 	0.00 	0.00 	0.00 	0.00 	  	0.00 	B 	0.80 	0.00 	12.30 	0.30 	  	CIN	FA	9
+142.	Virgil, Jalen DEN WR	18.50	3.700	  	  	  	  	  	  	  	  	B 	18.60 	0.00 	-2.00 	0.00 	1.90 	LVR	FA	9
+143.	Toure, Samori GBP WR	17.70	2.529	  	  	  	  	  	  	0.90 	10.70 	4.90 	0.00 	0.00 	0.00 	1.20 	B 	@CHI	FA	14
+144.	Sims, Steven PIT WR	16.80	2.100	  	  	  	  	0.00 	-0.50 	  	3.50 	B 	3.20 	-0.30 	2.40 	2.40 	6.10 	@BAL	FA	9
+145.	Bandy, Michael LAC WR	16.40	1.640	  	  	  	6.90 	0.00 	1.40 	0.00 	B 	5.60 	0.00 	0.00 	0.00 	2.50 	0.00 	BYE	FA	8
+146.	Pringle, Byron CHI WR	16.20	2.314	3.20 	0.00 	2.10 	  	  	  	  	  	  	2.20 	0.00 	8.70 	0.00 	B 	BYE	FA	14
+147.	Kumerow, Jake BUF WR	15.40	2.567	0.00 	12.00 	3.40 	  	  	  	B 	0.00 	0.00 	0.00 	  	  	  	  	BYE	FA (Q)	7
+148.	Cole, Keelan LVR WR	15.10	1.510	  	  	2.20 	0.00 	0.00 	B 	  	5.00 	0.00 	0.00 	3.10 	2.70 	0.00 	2.10 	@DEN	FA	6
+149.	White, Kevin FA WR	14.40	2.057	  	  	  	  	  	0.00 	12.40 	0.00 	2.00 	0.00 	0.00 	0.00 	  	B 	BYE	FA	-
+150.	Philips, Kyle TEN WR	14.30	3.575	14.10 	-1.00 	  	0.00 	1.20 	B 	  	  	  	  	  	  	  	  	@NOS	Snusmumrik's Minions	6
+151.	Milne, Dax WAS WR	13.70	1.245	0.00 	1.10 	2.20 	0.00 	0.00 	1.00 	0.90 	0.90 	7.60 	0.00 	0.00 	  	  	B 	ARI	FA	14
+152.	Guyton, Jalen LAC WR	13.40	4.467	0.00 	0.00 	13.40 	  	  	  	  	B 	  	  	  	  	  	  	MIA	Lesorub Magadan (Q)	8
+153.	Jones, Velus CHI WR	13.20	1.650	  	  	  	-2.00 	7.90 	1.30 	0.00 	5.30 	  	  	0.00 	0.60 	0.10 	B 	GBP	illmatic27	14
+154.	Sims, Cam WAS WR	12.80	0.985	0.00 	0.00 	0.00 	0.00 	1.20 	1.10 	2.20 	3.10 	2.20 	0.00 	2.70 	0.00 	0.30 	B 	@DEN	FA	14
+155.	Eskridge, D'Wayne SEA WR	12.30	1.230	0.50 	1.10 	0.00 	2.60 	0.00 	6.90 	0.40 	0.80 	0.00 	0.00 	B 	  	  	  	LAR	FA	11
+156.	Williams, Jameson DET WR	11.10	5.550	  	  	  	  	  	B 	  	  	  	  	  	  	0.00 	11.10 	@KCC	illmatic27 (S)	6
+157.	Crowder, Jamison BUF WR	11.00	2.750	5.80 	2.60 	1.40 	1.20 	  	  	B 	  	  	  	  	  	  	  	DAL	FA	7
+158.	Johnson, Marcus NYG WR	10.80	1.080	  	  	  	0.00 	5.50 	4.50 	0.00 	0.80 	B 	0.00 	0.00 	0.00 	0.00 	0.00 	BYE	FA	9
+159.	Johnson, Brandon DEN WR	9.20	2.300	  	  	  	  	  	  	  	  	B 	  	0.70 	8.50 	0.00 	0.00 	LVR	FA	9
+160.	Smith, Jeff NYJ WR	9.20	0.920	0.00 	2.70 	0.00 	0.00 	2.10 	0.00 	0.00 	3.30 	1.10 	B 	0.00 	  	  	  	DAL	FA	10
+161.	Taylor, Trent CIN WR	9.20	0.708	0.00 	0.00 	0.00 	0.00 	0.00 	-2.00 	0.00 	1.00 	4.20 	B 	0.60 	1.30 	-0.30 	4.40 	@CLE	FA	10
+162.	Olszewski, Gunner PIT WR	8.90	0.742	0.00 	0.30 	0.00 	0.00 	  	0.00 	0.00 	0.00 	B 	0.90 	5.40 	0.90 	0.20 	1.20 	SFO	FA	9
+163.	Strachan, Mike IND WR	8.90	0.890	5.60 	3.30 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	  	  	  	0.00 	B 	JAC	FA	14
+164.	Golladay, Kenny NYG WR	8.10	1.013	3.70 	0.00 	0.00 	0.00 	  	  	  	  	B 	0.00 	4.40 	0.00 	  	0.00 	BYE	FA	9
+165.	Hollister, Cody TEN WR	7.90	0.718	3.20 	0.00 	0.00 	0.00 	0.00 	B 	4.70 	0.00 	0.00 	0.00 	0.00 	0.00 	  	  	@NOS	FA (Q)	6
+166.	Proche, James BAL WR	7.70	0.700	0.00 	  	  	0.00 	1.20 	0.00 	0.00 	4.40 	4.20 	B 	0.00 	0.00 	-2.10 	0.00 	HOU	FA	10
+167.	Thomas, Mike FA WR	7.30	0.730	3.00 	0.00 	0.00 	0.00 	4.30 	0.00 	0.00 	0.00 	0.00 	B 	0.00 	  	  	  	BYE	FA (Q)	-
+168.	Baccellia, Andre ARI WR	7.20	1.200	0.00 	2.70 	2.80 	0.00 	0.00 	  	  	  	  	  	  	1.70 	B 	  	@WAS	FA	13
+169.	Jones, Tim JAC WR	5.00	0.385	0.00 	0.00 	0.00 	0.00 	0.00 	3.00 	1.20 	0.00 	0.00 	0.00 	B 	0.00 	0.80 	0.00 	@IND	FA	11
+170.	Nailor, Jalen MIN WR	4.80	0.436	0.00 	0.00 	0.00 	2.30 	  	0.00 	B 	0.00 	  	0.00 	2.50 	0.00 	0.00 	0.00 	TBB	FA	7
+171.	Fehoko, Simi DAL WR	4.40	0.880	2.20 	0.00 	2.20 	0.00 	0.00 	  	  	  	B 	  	  	  	  	  	@NYG	FA	9
+172.	Cleveland, Tyrie FA WR	4.30	0.717	0.00 	4.30 	  	  	0.00 	0.00 	0.00 	  	B 	0.00 	  	  	  	  	@NEP	FA	-
+173.	Darden, Jaelon CLE WR	4.30	0.358	0.20 	0.00 	3.50 	0.00 	0.00 	0.00 	0.60 	0.00 	0.00 	0.00 	B 	0.00 	0.00 	  	CIN	FA	9
+174.	Beasley, Cole BUF WR	4.20	2.100	  	  	3.20 	1.00 	  	  	  	  	  	  	B 	  	  	  	BYE	FA	7
+175.	Isabella, Andy BAL WR	4.10	1.367	2.00 	  	2.10 	0.00 	  	  	  	  	  	  	  	  	B 	  	HOU	FA	10
+176.	Woods, Michael CLE WR	4.10	0.683	  	  	  	  	  	2.50 	0.00 	1.60 	B 	0.00 	0.00 	  	  	0.00 	CIN	FA (O)	9
+177.	Patmon, Dezmon BUF WR	3.90	3.900	  	3.90 	  	  	  	  	  	  	  	  	  	  	  	B 	@NYJ	FA	7
+178.	Conley, Chris TEN WR	3.70	0.740	0.00 	0.00 	  	  	  	B 	  	0.00 	0.00 	  	  	  	  	3.70 	@PIT	FA	6
+179.	Wallace, Tylan BAL WR	3.60	0.450	0.00 	1.40 	0.00 	0.00 	1.30 	0.90 	  	  	  	B 	0.00 	0.00 	  	  	HOU	FA	10
+180.	Kirkwood, Keith NOS WR	3.30	1.650	  	  	  	  	0.90 	2.40 	  	  	  	  	  	  	  	B 	TEN	FA	14
+181.	Washington, Montrell DEN WR	3.20	0.246	0.00 	1.90 	0.00 	0.90 	0.90 	-1.50 	0.20 	0.60 	B 	0.00 	0.00 	0.30 	-0.10 	0.00 	LVR	FA	9
+182.	Turner, DJ LVR WR	3.10	0.344	0.00 	  	  	  	  	B 	2.50 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.60 	@DEN	FA	6
+183.	Cephus, Quintez DET WR	3.00	0.750	0.00 	0.00 	0.00 	3.00 	  	B 	  	  	  	  	  	  	  	  	BYE	FA (S)	6
+184.	Edwards, Bryan FA WR	3.00	0.429	0.00 	0.70 	  	  	1.50 	0.00 	0.00 	0.80 	  	0.00 	  	  	  	B 	TEN	FA	-
+185.	Humphrey, Lil'Jordan NEP WR	3.00	0.500	0.00 	1.60 	0.00 	1.40 	0.00 	0.00 	  	  	  	B 	  	  	  	  	LVR	FA	10
+186.	Trammell, Austin LAR WR	2.80	1.400	  	  	  	  	  	  	B 	  	  	  	  	  	1.30 	1.50 	@SEA	FA	7
+187.	Winfree, Juwann FA WR	2.70	0.900	2.70 	  	0.00 	  	  	0.00 	  	  	  	  	  	  	  	B 	JAC	FA	-
+188.	Houston, Dennis DAL WR	2.60	1.300	2.60 	0.00 	  	  	  	  	  	  	B 	  	  	  	  	  	@NYG	FA	9
+189.	Hart, Penny SEA WR	2.50	0.357	0.00 	0.00 	2.50 	0.00 	0.00 	  	  	  	0.00 	0.00 	B 	  	  	  	CAR	FA	11
+190.	Tolbert, Jalen DAL WR	2.20	0.275	  	  	0.90 	  	  	0.00 	0.00 	0.00 	B 	0.00 	1.30 	0.00 	0.00 	  	@NYG	KWar	9
+191.	Boykin, Miles PIT WR	2.10	0.175	0.00 	0.00 	0.00 	0.00 	2.10 	0.00 	0.00 	0.00 	B 	0.00 	0.00 	  	0.00 	0.00 	SFO	FA	9
+192.	Gray, Danny SFO WR	2.00	0.222	  	0.00 	0.00 	  	0.00 	  	0.00 	0.00 	B 	  	0.00 	0.00 	0.00 	2.00 	@PIT	FC	9
+193.	Camp, Jalen HOU WR	1.70	0.850	  	  	  	  	  	B 	  	  	1.70 	  	  	  	  	0.00 	@BAL	FA	6
+194.	Harris, Jacob LAR WR	1.60	0.229	  	0.00 	0.00 	  	0.00 	  	B 	  	  	  	0.00 	1.60 	0.00 	0.00 	@IND	FA	7
+195.	Turpin, KaVontae DAL WR	1.60	0.123	0.00 	0.30 	0.00 	0.00 	0.00 	0.00 	0.30 	1.60 	B 	1.40 	0.00 	0.00 	0.00 	-2.00 	@NYG	FA	9
+196.	Johnson, Tyron SFO WR	1.30	0.325	0.00 	  	  	0.00 	  	B 	  	0.00 	1.30 	  	  	  	  	  	@NYG	FA	9
+197.	Alexander, Maurice DET WR	1.20	0.300	  	  	  	0.00 	0.00 	B 	0.00 	1.20 	  	  	  	  	  	  	@KCC	FA	6
+198.	Board, C.J. TEN WR	1.10	0.275	  	  	  	  	  	B 	  	  	  	0.00 	0.00 	0.00 	1.10 	  	BYE	FA (Q)	6
+199.	Moore, Jason FA WR	1.00	0.167	  	  	  	0.00 	0.00 	0.00 	1.00 	B 	0.00 	0.00 	  	  	  	  	BYE	FA	-
+200.	Kinsey, Mason TEN WR	0.80	0.800	  	  	  	  	  	B 	0.80 	  	  	  	  	  	  	  	@NOS	FA	6
+201.	Sanders, Braylon MIA WR	0.70	0.700	  	  	  	  	  	  	  	0.70 	  	  	B 	  	  	  	@LAC	FA	11
+202.	White, Cody PIT WR	0.70	0.700	  	  	  	  	  	  	  	  	B 	  	  	0.70 	  	  	SFO	FA	9
+203.	Treadwell, Laquon SEA WR	0.60	0.200	  	  	  	  	  	  	  	  	  	  	B 	0.00 	0.60 	0.00 	HOU	FA	11
+204.	Coutee, Keke FA WR	0.50	0.083	  	0.00 	  	  	  	0.00 	  	0.00 	0.00 	0.50 	0.00 	  	  	B 	TEN	FA	-
+205.	Harty, Deonte NOS WR	0.30	0.075	0.90 	1.40 	  	-2.00 	0.00 	  	  	  	  	  	  	  	  	B 	@NYJ	БЕСЫ	14
+206.	Benson, Trinity DET WR	0.00	0.000	  	  	  	  	  	B 	  	  	  	0.00 	  	  	  	  	@KCC	FA (Q)	6
+207.	Bernhardt, Jared ATL WR	0.00	0.000	  	0.00 	0.00 	  	  	  	  	  	  	  	  	  	  	B 	BYE	FA (R)	14
+208.	Berryhill, Stanley DET WR	0.00	0.000	  	  	  	  	  	B 	  	0.00 	0.00 	0.00 	0.00 	  	  	  	BYE	FA (S)	6
+209.	Bowden, Lynn NEP WR	0.00	0.000	  	  	  	  	  	  	  	  	0.00 	B 	  	  	  	  	TEN	FA	10
+210.	Brown, John FA WR	0.00	0.000	  	  	  	  	  	  	  	  	  	  	  	  	  	0.00 	BYE	FA	-
+211.	Chisena, Dan PIT WR	0.00	0.000	  	  	  	  	0.00 	  	B 	  	0.00 	  	  	  	  	  	SFO	FA	9
+212.	Cooper, Pharoh ARI WR	0.00	0.000	  	  	  	  	  	  	  	  	  	  	  	0.00 	B 	0.00 	BYE	FA	13
+213.	Covey, Britain PHI WR	0.00	0.000	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	B 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	@NEP	FA	7
+214.	Darby, Frank ATL WR	0.00	0.000	  	  	0.00 	  	  	  	  	  	  	  	0.00 	  	  	B 	CAR	FA	14
+215.	Erickson, Alex WAS WR	0.00	0.000	  	  	  	  	  	  	  	  	  	  	  	0.00 	0.00 	B 	BYE	FA	14
+216.	Fitzpatrick, Dez PIT WR	0.00	0.000	  	  	  	  	0.00 	B 	  	  	  	  	  	  	  	  	SFO	FA	9
+217.	Gentry, Tanner FA WR	0.00	0.000	  	  	  	  	0.00 	  	B 	  	  	  	0.00 	0.00 	  	  	BYE	FA	-
+218.	Gordon, Josh TEN WR	0.00	0.000	  	0.00 	0.00 	  	  	B 	  	  	  	  	  	  	  	  	BYE	FA	6
+219.	Higgins, Rashard CAR WR	0.00	0.000	  	  	0.00 	0.00 	  	0.00 	  	  	  	  	  	  	B 	  	BYE	FA	13
+220.	Johnson, Cade SEA WR	0.00	0.000	  	  	  	  	  	  	  	0.00 	  	  	B 	  	  	  	LAR	FA	11
+221.	Johnson, Tyler LVR WR	0.00	0.000	  	  	  	0.00 	0.00 	B 	  	  	  	  	  	  	  	  	@SEA	FA	6
+222.	Kemp, Marcus KCC WR	0.00	0.000	  	  	  	  	  	  	0.00 	B 	0.00 	  	0.00 	  	  	  	ARI	FA	8
+223.	Martin, Tay SFO WR	0.00	0.000	  	  	  	  	  	  	  	0.00 	B 	  	  	  	  	  	@PIT	FA	9
+224.	McCutcheon, Lance LAR WR	0.00	0.000	  	  	0.00 	0.00 	  	  	B 	  	  	0.00 	0.00 	0.00 	  	0.00 	@SEA	FA	7
+225.	McGowan, Kyric WAS WR	0.00	0.000	  	  	  	  	  	  	  	0.00 	  	  	  	  	  	B 	ARI	FA	14
+226.	McMath, Racey TEN WR	0.00	0.000	  	  	  	  	  	B 	  	  	  	  	  	  	  	0.00 	@NOS	FA	6
+227.	Merritt, Kirk NOS WR	0.00	0.000	  	  	  	  	  	  	  	  	  	  	  	  	0.00 	B 	TEN	FA	14
+228.	Morgan, Stanley CIN WR	0.00	0.000	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	  	  	0.00 	B 	0.00 	0.00 	0.00 	0.00 	@CLE	FA	10
+229.	Powell, Cornell KCC WR	0.00	0.000	  	  	  	  	  	  	  	B 	  	  	0.00 	0.00 	0.00 	  	DET	FA	8
+230.	Roberts, Andre CAR WR	0.00	0.000	0.00 	  	  	  	  	  	  	  	  	  	  	  	B 	  	BYE	FA	13
+231.	Slater, Matt NEP WR	0.00	0.000	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	B 	0.00 	0.00 	0.00 	0.00 	PHI	FA	10
+232.	Snead, Willie FA WR	0.00	0.000	  	  	  	  	  	0.00 	  	0.00 	B 	  	  	  	  	  	@PIT	FA	-
+233.	Swain, Freddie DEN WR	0.00	0.000	  	  	  	  	  	  	  	  	B 	  	  	  	  	0.00 	@LAC	FA	9
+234.	Thompkins, Deven TBB WR	0.00	0.000	  	  	  	  	  	  	  	  	  	  	B 	  	  	0.00 	@MIN	FA	11
+235.	Turner, Malik FA WR	0.00	0.000	0.00 	  	  	0.00 	0.00 	  	  	  	B 	  	  	  	  	  	JAC	FA	-
+236.	Victor, Binjimen FA WR	0.00	0.000	  	  	  	  	  	  	  	  	0.00 	B 	  	  	0.00 	  	BYE	FA	-
+237.	Washington, James FA WR	0.00	0.000	  	  	  	  	  	  	  	  	  	  	  	  	  	0.00 	TEN	FA	-
+238.	Webb, Raleigh NEP WR	0.00	0.000	  	0.00 	0.00 	  	  	  	0.00 	0.00 	0.00 	B 	0.00 	0.00 	0.00 	0.00 	PHI	FA	10
+239.	Wims, Javon ARI WR	0.00	0.000	  	  	  	  	  	0.00 	  	  	  	  	  	  	B 	  	BYE	FA	13
+240.	Young, Dareke SEA WR	0.00	0.000	0.00 	  	  	  	  	0.00 	0.00 	0.00 	0.00 	0.00 	B 	0.00 	0.00 	0.00 	LAR	FA	11
+241.	Zylstra, Brandon FA WR	0.00	0.000	  	  	  	  	  	  	0.00 	  	0.00 	  	  	  	  	  	BYE	FA	-
+242.	Smith-Marsette, Ihmir KCC WR	-0.10	-0.014	0.00 	0.00 	0.00 	0.00 	0.00 	-0.10 	  	  	  	  	  	  	  	0.00 	DET	FA	8
+243.	Rogers, Chester FA WR	-2.00	-0.667	  	  	0.00 	  	0.00 	-2.00 	  	  	B 	  	  	  	  	  	BYE	FA	-
